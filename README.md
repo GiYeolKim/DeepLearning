@@ -1,6 +1,6 @@
 # DeepLearning
 
-Basic concept of deep learning
+Basic Pytorch code of deep learning
 
 #### Index
 - Multi Layer Perceptron
