@@ -9,3 +9,5 @@
 git.ipynb
 
 __pycache__
+
+.gitignore
