@@ -1,11 +1,11 @@
 ## DeepLearning
 
-### Pytorch Programming
+#### Pytorch Programming
 
-### Multi-Layer Perceptron
+#### Multi-Layer Perceptron
 
-### Multi-Layer Perceptron with Regularization
+#### Multi-Layer Perceptron with Regularization
 
-### Multi-Layer Perceptron with Optimization
+#### Multi-Layer Perceptron with Optimization
 
-### Convolutional Neural Network
+#### Convolutional Neural Network
