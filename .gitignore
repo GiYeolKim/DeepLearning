@@ -1,7 +1,7 @@
 # for big datasets
 */data/
 */wandb/
-
+data
 # for jupyter notebooks
 */.ipynb_checkpoints/
 .ipynb_checkpoints/
